@@ -1,10 +1,3 @@
-/* Carolina Duarte
-   Dr. Steinberg
-   COP3503 Fall 2022
-   Programming Assignment 1
-*/
-
-
 public class GameDriver
 {
 	public static void main(String [] args) throws Exception
