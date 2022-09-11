@@ -15,7 +15,7 @@ import java.util.stream.Stream;
 public class Game {
 //Attributes:
  private int[][] board; //2D integer array that symbolizes the board.
- private char[] computerMoves; //1D primitive char arra that will store computerize moves.
+ private char[] computerMoves; //1D primitive char array that will store computerize moves.
 
 //Constructor with two parameters:
  public Game(int size, String filename) {
